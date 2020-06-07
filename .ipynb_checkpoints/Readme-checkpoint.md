@@ -6,8 +6,8 @@ https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/blob/master/data
 JHU Time Series confirmed deaths
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv
 
-NYC Covid Data Time Series
- https://github.com/nychealth/coronavirus-data/blob/master/boro/boroughs-case-hosp-death.csv
+NYC Covid Data Time Series  
+https://github.com/nychealth/coronavirus-data/blob/master/boro/boroughs-case-hosp-death.csv
 
 
 This project attempts to use county-level socioeconomic data, paired with
